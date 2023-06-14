@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NT_FORM/static/css/main.e8b6c927.css",
+    "main.js": "/NT_FORM/static/js/main.998156de.js",
+    "index.html": "/NT_FORM/index.html",
+    "main.e8b6c927.css.map": "/NT_FORM/static/css/main.e8b6c927.css.map",
+    "main.998156de.js.map": "/NT_FORM/static/js/main.998156de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8b6c927.css",
+    "static/js/main.998156de.js"
+  ]
+}
